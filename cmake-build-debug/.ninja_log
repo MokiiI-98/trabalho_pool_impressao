@@ -1,0 +1,13 @@
+# ninja log v6
+17	96	7538659418514207	CMakeFiles/untitled4.dir/impressora.cpp.obj	37be9a4fedab043e
+26	1482	7539087796256832	CMakeFiles/untitled4.dir/processo.cpp.obj	e0d9a0f97530a99
+30	1035	7539087796296848	CMakeFiles/untitled4.dir/spool.cpp.obj	d5c3d4ec336c490d
+21	1750	7539087796206815	CMakeFiles/untitled4.dir/main.cpp.obj	d192952a73056e34
+1750	1879	7539087813497387	untitled4.exe	40aec1efc23f3559
+12	696	7538684000913289	CMakeFiles/untitled4.dir/Logger.cpp.obj	e75731df0ff686f7
+25	103	7539299183701061	CMakeFiles/untitled4.dir/impressora.cpp.obj	978d0525478c4fe7
+33	885	7539299183781087	CMakeFiles/untitled4.dir/Logger.cpp.obj	2ccfdb0112fe97d8
+29	1124	7539299183741069	CMakeFiles/untitled4.dir/spool.cpp.obj	a5040314cebf1898
+21	1527	7539299183671076	CMakeFiles/untitled4.dir/processo.cpp.obj	5b766d022f57cfbc
+17	1777	7539299183621041	CMakeFiles/untitled4.dir/main.cpp.obj	7014716835c5df31
+1778	1960	7539299201227037	untitled4.exe	40aec1efc23f3559
